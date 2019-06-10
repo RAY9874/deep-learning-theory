@@ -1,5 +1,9 @@
 先mark上
 
+* python & numpy
+
+  http://cs231n.github.io/python-numpy-tutorial/
+  
 * 反向传播公式推导
 
   https://www.cnblogs.com/charlotte77/p/5629865.html
