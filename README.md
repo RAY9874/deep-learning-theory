@@ -1,11 +1,8 @@
 深度学习理论资源
 
-* 《deeplearning with python》
-
-  Written by Keras creator and Google AI researcher François Chollet
+* 《deeplearning with python》 -- Written by Keras creator and Google AI researcher François Chollet
   
   [原书](https://www.manning.com/books/deep-learning-with-python)
-  
   [notebook](https://github.com/fchollet/deep-learning-with-python-notebooks)
   
 * python & numpy 斯坦福cs231n课程 教程
