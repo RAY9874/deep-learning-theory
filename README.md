@@ -5,7 +5,7 @@
   [原书](https://www.manning.com/books/deep-learning-with-python) /课程中code samples
   [notebook](https://github.com/fchollet/deep-learning-with-python-notebooks)
   
-* python & numpy 斯坦福cs231n课程 教程
+* python & numpy教程 -- 斯坦福cs231n课程推荐
 
   http://cs231n.github.io/python-numpy-tutorial/
   
