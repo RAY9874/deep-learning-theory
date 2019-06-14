@@ -21,10 +21,8 @@
 
   https://zhuanlan.zhihu.com/p/33006526
 
-* Batch Normalization
-
-  论文 [How Does Batch Normalization Help Optimization?](https://arxiv.org/pdf/1805.11604.pdf) & 中文的[论文解读](https://zhuanlan.zhihu.com/p/52749286)
+* [How Does Batch Normalization Help Optimization?](https://arxiv.org/pdf/1805.11604.pdf) & 中文的[论文解读](https://zhuanlan.zhihu.com/p/52749286)
   
-  BN 放在激活层之前还是之后？ https://www.zhihu.com/question/283715823/answer/438882036
+* [BN 放在激活层之前还是之后？] (https://www.zhihu.com/question/283715823/answer/438882036)
   
 * [不平衡数据究竟出了什么问题？](https://zhuanlan.zhihu.com/p/56960799)
