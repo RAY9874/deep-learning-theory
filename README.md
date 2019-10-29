@@ -18,3 +18,5 @@
 * [BN 放在激活层之前还是之后？](https://www.zhihu.com/question/283715823/answer/438882036)
   
 * [不平衡数据究竟出了什么问题？](https://zhuanlan.zhihu.com/p/56960799)
+
+* [图像分类中 卷积层数量与全连接数量的关系](https://arxiv.org/abs/1902.02771)
