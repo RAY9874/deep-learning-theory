@@ -6,9 +6,13 @@
 
 * [反向传播公式推导](https://www.cnblogs.com/charlotte77/p/5629865.html)
 
+梯度相关
+
 * [dead relu](http://www.rethink.fun/index.php/2018/05/11/dead-relu/)
 
 * [梯度消失以及解决方案](https://zhuanlan.zhihu.com/p/33006526)
+
+BN相关
 
 * NeurIPS2018[How Does Batch Normalization Help Optimization?](https://arxiv.org/pdf/1805.11604.pdf) & 中文的[论文解读](https://zhuanlan.zhihu.com/p/52749286)
 * CVPR2019[ScratchDet:Exploring to Train Single-Shot Object Detectors from Scratch](https://arxiv.org/abs/1810.08425v3)& [论文解读](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487923&idx=2&sn=563fcafdef26d870a1547f9d8eef9abb&chksm=ec1ffc4adb68755cbb11b428b5143562f3c3562bbb2ee44d6900931308b731e91bb2be484d6c&token=1974059303&lang=zh_CN#rd)
@@ -17,6 +21,10 @@
   
 * [BN 放在激活层之前还是之后？](https://www.zhihu.com/question/283715823/answer/438882036)
   
+数据相关
+
 * [不平衡数据究竟出了什么问题？](https://zhuanlan.zhihu.com/p/56960799)
+
+模型结构相关
 
 * [图像分类中 卷积层数量与全连接数量的关系](https://arxiv.org/abs/1902.02771)
